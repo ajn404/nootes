@@ -4,3 +4,8 @@ language = "en"
 multilingual = false
 src = "src"
 title = "ℌ"
+
+[output.html]
+git-repository-url = "https://github.com/ajn404/nootes"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/ajn404/nootes/edit/main/{path}"
